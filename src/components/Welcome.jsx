@@ -10,3 +10,5 @@ function Welcome(props) {
 
 export default Welcome;
 // contoh props di function declaration
+
+
